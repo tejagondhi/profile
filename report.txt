@@ -1,0 +1,1302 @@
+[ 2019-02-19 03:41:19 ] full archive url = https://www.dotrex.co/vertica/themes/james.html
+[ 2019-02-19 03:41:19 ] archive url = https://www.dotrex.co/vertica/themes/james.html
+[ 2019-02-19 03:41:19 ] website url = www.dotrex.co/vertica/themes/james.html
+[ 2019-02-19 03:41:19 ] no www url = dotrex.co
+[ 2019-02-19 03:41:19 ] main_domain = dotrex.co
+[ 2019-02-19 03:41:19 ] subdomain = www
+[ 2019-02-19 03:41:19 ] type( demo or live ) = live
+[ 2019-02-19 03:41:19 ] max_level = 5
+[ 2019-02-19 03:41:19 ] main folder = dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i
+[ 2019-02-19 03:41:19 ] email = gondijagapathi@gmail.com
+[ 2019-02-19 03:41:19 ] scaping_type = all
+[ 2019-02-19 03:41:19 ] file_path_index = vertica/themes/james.html
+[ 2019-02-19 03:41:19 ] file_path_without_ext_index = vertica/themes/james
+[ 2019-02-19 03:41:19 ] #####################################################################################################
+[ 2019-02-19 03:41:19 ] ###############https://www.dotrex.co/vertica/themes/james.html ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2019-02-19 03:41:19 ] ###############Local URL = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/index.html (code = 200) ###############
+[ 2019-02-19 03:41:19 ] ###############Try number = 1###############
+[ 2019-02-19 03:41:19 ] #####################################################################################################
+[ 2019-02-19 03:41:19 ]  Main level =0
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] TEST 1
+[ 2019-02-19 03:41:19 ] URL = https://www.dotrex.co/vertica/themes/james.html
+[ 2019-02-19 03:41:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:19 ] useragent = Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-19 03:41:19 ] Original encoding = UTF-8
+[ 2019-02-19 03:41:19 ] Final encoding = UTF-8
+[ 2019-02-19 03:41:19 ] Language = N/A
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		Extract pdf files		**********/
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		End : Extract pdf files		**********/
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		Extract css files		**********/
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/bootstrap.min.css
+[ 2019-02-19 03:41:19 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/bootstrap.min.css
+[ 2019-02-19 03:41:19 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/bootstrap.min.css
+[ 2019-02-19 03:41:19 ] scrape_it = 1
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] TEST 1
+[ 2019-02-19 03:41:19 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/bootstrap.min.css
+[ 2019-02-19 03:41:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:19 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.0
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] 
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:19 ] /**************************************************************/
+[ 2019-02-19 03:41:19 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/before{content:
+[ 2019-02-19 03:41:19 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/before_content_.css
+[ 2019-02-19 03:41:19 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/before{content:
+[ 2019-02-19 03:41:19 ] scrape_it = 1
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:19 ] ---------------------------------------
+[ 2019-02-19 03:41:19 ] TEST 1
+[ 2019-02-19 03:41:19 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/before{content:
+[ 2019-02-19 03:41:19 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:20 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+[ 2019-02-19 03:41:20 ] Code = 404
+[ 2019-02-19 03:41:20 ] HTML found = Yes
+[ 2019-02-19 03:41:20 ]     No sleep!
+[ 2019-02-19 03:41:20 ] ----
+[ 2019-02-19 03:41:20 ] TEST 2
+[ 2019-02-19 03:41:20 ] URL = http://www.dotrex.co/vertica/themes/vendor/bootstrap/css/before{content:  --> Switch protocol ( Try 'http' )
+[ 2019-02-19 03:41:20 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-19 03:41:21 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+[ 2019-02-19 03:41:21 ] Code = 404
+[ 2019-02-19 03:41:21 ] HTML found = Yes
+[ 2019-02-19 03:41:21 ]     No sleep!
+[ 2019-02-19 03:41:21 ] ----
+[ 2019-02-19 03:41:21 ] TEST 3
+[ 2019-02-19 03:41:21 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/before{content:
+[ 2019-02-19 03:41:21 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-19 03:41:21 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+[ 2019-02-19 03:41:21 ] Code = 404
+[ 2019-02-19 03:41:21 ] HTML found = Yes
+[ 2019-02-19 03:41:21 ]     No sleep!
+[ 2019-02-19 03:41:21 ] ----
+[ 2019-02-19 03:41:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:21 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:21 ] 
+[ 2019-02-19 03:41:21 ] 
+[ 2019-02-19 03:41:21 ] 
+[ 2019-02-19 03:41:21 ] /**************************************************************/
+[ 2019-02-19 03:41:21 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:21 ] /**************************************************************/
+[ 2019-02-19 03:41:21 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/../fonts/glyphicons-halflings-regular.eot
+[ 2019-02-19 03:41:21 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-19 03:41:21 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-19 03:41:21 ] scrape_it = 1
+[ 2019-02-19 03:41:21 ] ---------------------------------------
+[ 2019-02-19 03:41:21 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:21 ] ---------------------------------------
+[ 2019-02-19 03:41:21 ] TEST 1
+[ 2019-02-19 03:41:21 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-19 03:41:21 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:21 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:21 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.eot --> File Created !!!
+[ 2019-02-19 03:41:21 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:22 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/../fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-02-19 03:41:22 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-19 03:41:22 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-02-19 03:41:22 ] scrape_it = 1
+[ 2019-02-19 03:41:22 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:22 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/../fonts/glyphicons-halflings-regular.woff
+[ 2019-02-19 03:41:22 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-19 03:41:22 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-19 03:41:22 ] scrape_it = 1
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] TEST 1
+[ 2019-02-19 03:41:22 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-19 03:41:22 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:22 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)
+[ 2019-02-19 03:41:22 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.woff --> File Created !!!
+[ 2019-02-19 03:41:22 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:22 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/../fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-19 03:41:22 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-19 03:41:22 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-19 03:41:22 ] scrape_it = 1
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] TEST 1
+[ 2019-02-19 03:41:22 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-19 03:41:22 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:22 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-02-19 03:41:22 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.ttf --> File Created !!!
+[ 2019-02-19 03:41:22 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:22 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-19 03:41:22 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:22 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-19 03:41:22 ] scrape_it = 1
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] TEST 1
+[ 2019-02-19 03:41:22 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-19 03:41:22 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:22 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-02-19 03:41:22 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg --> File Created !!!
+[ 2019-02-19 03:41:22 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:22 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:22 ] 
+[ 2019-02-19 03:41:22 ] 
+[ 2019-02-19 03:41:22 ] 
+[ 2019-02-19 03:41:22 ] /**************************************************************/
+[ 2019-02-19 03:41:22 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:22 ] /**************************************************************/
+[ 2019-02-19 03:41:22 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:22 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/img/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:22 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:22 ] scrape_it = 1
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:22 ] ---------------------------------------
+[ 2019-02-19 03:41:22 ] TEST 1
+[ 2019-02-19 03:41:22 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:22 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:23 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+[ 2019-02-19 03:41:23 ] Code = 404
+[ 2019-02-19 03:41:23 ] HTML found = Yes
+[ 2019-02-19 03:41:23 ]     No sleep!
+[ 2019-02-19 03:41:23 ] ----
+[ 2019-02-19 03:41:23 ] TEST 2
+[ 2019-02-19 03:41:23 ] URL = http://www.dotrex.co/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg  --> Switch protocol ( Try 'http' )
+[ 2019-02-19 03:41:23 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-19 03:41:23 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-02-19 03:41:23 ] Code = 404
+[ 2019-02-19 03:41:23 ] HTML found = Yes
+[ 2019-02-19 03:41:23 ]     No sleep!
+[ 2019-02-19 03:41:23 ] ----
+[ 2019-02-19 03:41:23 ] TEST 3
+[ 2019-02-19 03:41:23 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-19 03:41:23 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-19 03:41:24 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+[ 2019-02-19 03:41:24 ] Code = 404
+[ 2019-02-19 03:41:24 ] HTML found = Yes
+[ 2019-02-19 03:41:24 ]     No sleep!
+[ 2019-02-19 03:41:24 ] ----
+[ 2019-02-19 03:41:24 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:24 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/css/bootstrap.min.css --> File Created !!!
+[ 2019-02-19 03:41:24 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:24 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/font-awesome.min.css
+[ 2019-02-19 03:41:24 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/font-awesome.min.css
+[ 2019-02-19 03:41:24 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/font-awesome.min.css
+[ 2019-02-19 03:41:24 ] scrape_it = 1
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] TEST 1
+[ 2019-02-19 03:41:24 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/font-awesome.min.css
+[ 2019-02-19 03:41:24 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:24 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] /**************************************************************/
+[ 2019-02-19 03:41:24 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:24 ] /**************************************************************/
+[ 2019-02-19 03:41:24 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] 
+[ 2019-02-19 03:41:24 ] /**************************************************************/
+[ 2019-02-19 03:41:24 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:24 ] /**************************************************************/
+[ 2019-02-19 03:41:24 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/../fonts/fontawesome-webfont.eot?v=4.1.0
+[ 2019-02-19 03:41:24 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.eot
+[ 2019-02-19 03:41:24 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0
+[ 2019-02-19 03:41:24 ] scrape_it = 1
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] TEST 1
+[ 2019-02-19 03:41:24 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0
+[ 2019-02-19 03:41:24 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:24 ] useragent = Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
+[ 2019-02-19 03:41:24 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.eot --> File Created !!!
+[ 2019-02-19 03:41:24 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:24 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.1.0
+[ 2019-02-19 03:41:24 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.eot
+[ 2019-02-19 03:41:24 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0
+[ 2019-02-19 03:41:24 ] scrape_it = 1
+[ 2019-02-19 03:41:24 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:24 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/../fonts/fontawesome-webfont.woff?v=4.1.0
+[ 2019-02-19 03:41:24 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.woff
+[ 2019-02-19 03:41:24 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0
+[ 2019-02-19 03:41:24 ] scrape_it = 1
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:24 ] ---------------------------------------
+[ 2019-02-19 03:41:24 ] TEST 1
+[ 2019-02-19 03:41:24 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0
+[ 2019-02-19 03:41:24 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:24 ] useragent = Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:24 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.woff --> File Created !!!
+[ 2019-02-19 03:41:25 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:25 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/../fonts/fontawesome-webfont.ttf?v=4.1.0
+[ 2019-02-19 03:41:25 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.ttf
+[ 2019-02-19 03:41:25 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0
+[ 2019-02-19 03:41:25 ] scrape_it = 1
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] TEST 1
+[ 2019-02-19 03:41:25 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0
+[ 2019-02-19 03:41:25 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:25 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0 Iceweasel/14.0
+[ 2019-02-19 03:41:25 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.ttf --> File Created !!!
+[ 2019-02-19 03:41:25 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:25 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/../fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular
+[ 2019-02-19 03:41:25 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg
+[ 2019-02-19 03:41:25 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular
+[ 2019-02-19 03:41:25 ] scrape_it = 1
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] TEST 1
+[ 2019-02-19 03:41:25 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular
+[ 2019-02-19 03:41:25 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:25 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-02-19 03:41:25 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg --> File Created !!!
+[ 2019-02-19 03:41:25 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:25 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:25 ] 
+[ 2019-02-19 03:41:25 ] 
+[ 2019-02-19 03:41:25 ] 
+[ 2019-02-19 03:41:25 ] /**************************************************************/
+[ 2019-02-19 03:41:25 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:25 ] /**************************************************************/
+[ 2019-02-19 03:41:25 ] file url = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg
+[ 2019-02-19 03:41:25 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/img/fontawesome-webfont.svg
+[ 2019-02-19 03:41:25 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg
+[ 2019-02-19 03:41:25 ] scrape_it = 1
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:25 ] ---------------------------------------
+[ 2019-02-19 03:41:25 ] TEST 1
+[ 2019-02-19 03:41:25 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg
+[ 2019-02-19 03:41:25 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:26 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-02-19 03:41:26 ] Code = 404
+[ 2019-02-19 03:41:26 ] HTML found = Yes
+[ 2019-02-19 03:41:26 ]     No sleep!
+[ 2019-02-19 03:41:26 ] ----
+[ 2019-02-19 03:41:26 ] TEST 2
+[ 2019-02-19 03:41:26 ] URL = http://www.dotrex.co/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg  --> Switch protocol ( Try 'http' )
+[ 2019-02-19 03:41:26 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-19 03:41:26 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+[ 2019-02-19 03:41:26 ] Code = 404
+[ 2019-02-19 03:41:26 ] HTML found = Yes
+[ 2019-02-19 03:41:26 ]     No sleep!
+[ 2019-02-19 03:41:26 ] ----
+[ 2019-02-19 03:41:26 ] TEST 3
+[ 2019-02-19 03:41:26 ] URL = https://www.dotrex.co/vertica/themes/vendor/font-awesome/css/--/fonts/fontawesome-webfont.svg
+[ 2019-02-19 03:41:26 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-19 03:41:27 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36
+[ 2019-02-19 03:41:27 ] Code = 404
+[ 2019-02-19 03:41:27 ] HTML found = Yes
+[ 2019-02-19 03:41:27 ]     No sleep!
+[ 2019-02-19 03:41:27 ] ----
+[ 2019-02-19 03:41:27 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:27 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/font-awesome/css/font-awesome.min.css --> File Created !!!
+[ 2019-02-19 03:41:27 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:27 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.css
+[ 2019-02-19 03:41:27 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.css
+[ 2019-02-19 03:41:27 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.css
+[ 2019-02-19 03:41:27 ] scrape_it = 1
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] TEST 1
+[ 2019-02-19 03:41:27 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.css
+[ 2019-02-19 03:41:27 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:27 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.css --> File Created !!!
+[ 2019-02-19 03:41:27 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:27 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/default.css
+[ 2019-02-19 03:41:27 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/default.css
+[ 2019-02-19 03:41:27 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/default.css
+[ 2019-02-19 03:41:27 ] scrape_it = 1
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] TEST 1
+[ 2019-02-19 03:41:27 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/default.css
+[ 2019-02-19 03:41:27 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:27 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] 
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:27 ] /**************************************************************/
+[ 2019-02-19 03:41:27 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading.gif
+[ 2019-02-19 03:41:27 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/loading.gif
+[ 2019-02-19 03:41:27 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading.gif
+[ 2019-02-19 03:41:27 ] scrape_it = 1
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] TEST 1
+[ 2019-02-19 03:41:27 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading.gif
+[ 2019-02-19 03:41:27 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:27 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
+[ 2019-02-19 03:41:27 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/loading.gif --> File Created !!!
+[ 2019-02-19 03:41:27 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:27 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev.png
+[ 2019-02-19 03:41:27 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/prev.png
+[ 2019-02-19 03:41:27 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev.png
+[ 2019-02-19 03:41:27 ] scrape_it = 1
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:27 ] ---------------------------------------
+[ 2019-02-19 03:41:27 ] TEST 1
+[ 2019-02-19 03:41:27 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev.png
+[ 2019-02-19 03:41:27 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/prev.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/next.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/next.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/close.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/close.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading@2x.gif
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/loading_2x.gif
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading@2x.gif
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/loading@2x.gif
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/loading_2x.gif --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev@2x.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/prev_2x.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev@2x.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/prev@2x.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/prev_2x.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next@2x.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/next_2x.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next@2x.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/next@2x.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/next_2x.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close@2x.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/close_2x.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close@2x.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/themes/default/close@2x.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20121202 Firefox/17.0 Iceweasel/17.0.1
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/img/close_2x.png --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/themes/default/default.css --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/vendor/animate.css
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/animate.css
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/animate.css
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/vendor/animate.css
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/animate.css --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/css/styles.css
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/styles.css
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/css/styles.css
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/css/styles.css
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] 
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:28 ] /**************************************************************/
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/css/../img/background2.jpg
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/background2.jpg
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/img/background2.jpg
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/img/background2.jpg
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:28 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:28 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/background2.jpg --> File Created !!!
+[ 2019-02-19 03:41:28 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:28 ] file url = https://www.dotrex.co/vertica/themes/css/../img/paper-bg2.png
+[ 2019-02-19 03:41:28 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/paper-bg2.png
+[ 2019-02-19 03:41:28 ] file url 1 = https://www.dotrex.co/vertica/themes/img/paper-bg2.png
+[ 2019-02-19 03:41:28 ] scrape_it = 1
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:28 ] ---------------------------------------
+[ 2019-02-19 03:41:28 ] TEST 1
+[ 2019-02-19 03:41:28 ] URL = https://www.dotrex.co/vertica/themes/img/paper-bg2.png
+[ 2019-02-19 03:41:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/paper-bg2.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/paper-bg-bot.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/paper-bg-bot.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/paper-bg-bot.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/paper-bg-bot.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/paper-bg-bot.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/timeline-bg.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/timeline-bg.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/timeline-bg.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/timeline-bg.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/timeline-bg.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-bar.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-bar.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-bar.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-bar.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-bar.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-point.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-point.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-point.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-point.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-point.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-education4.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-education4.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-education4.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-education4.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-education4.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-work3.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-work3.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-work3.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-work3.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-work3.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-mail3.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-mail3.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-mail3.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-mail3.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-mail3.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/../img/progress-section-title3.png
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-section-title3.png
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/progress-section-title3.png
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/progress-section-title3.png
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/img/progress-section-title3.png --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/styles.css --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/themes/james.css
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/themes/james.css
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/css/themes/james.css
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/css/themes/james.css
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:22.0) Gecko/20130328 Firefox/22.0
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:29 ] /**************************************************************/
+[ 2019-02-19 03:41:29 ] file url = https://www.dotrex.co/vertica/themes/css/themes/../../img/bg-james3.jpg
+[ 2019-02-19 03:41:29 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/themes/img/bg-james3.jpg
+[ 2019-02-19 03:41:29 ] file url 1 = https://www.dotrex.co/vertica/themes/img/bg-james3.jpg
+[ 2019-02-19 03:41:29 ] scrape_it = 1
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:29 ] ---------------------------------------
+[ 2019-02-19 03:41:29 ] TEST 1
+[ 2019-02-19 03:41:29 ] URL = https://www.dotrex.co/vertica/themes/img/bg-james3.jpg
+[ 2019-02-19 03:41:29 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:29 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/themes/img/bg-james3.jpg --> File Created !!!
+[ 2019-02-19 03:41:29 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:29 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:29 ] 
+[ 2019-02-19 03:41:29 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/css/themes/james.css --> File Created !!!
+[ 2019-02-19 03:41:30 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:30 ] /*******		End : Extract css files		**********/
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		Extract fonts_from_html files		**********/
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		Extract xml files		**********/
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		End : Extract xml files		**********/
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		Extract txt files		**********/
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		End : Extract txt files		**********/
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] 
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] /*******		Extract script files		**********/
+[ 2019-02-19 03:41:30 ] /**************************************************************/
+[ 2019-02-19 03:41:30 ] file url = https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+[ 2019-02-19 03:41:30 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/ajax-googleapis-com/ajax/libs/jquery/1-11-0/jquery.min.js
+[ 2019-02-19 03:41:30 ] file url 1 = https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+[ 2019-02-19 03:41:30 ] scrape_it = 1
+[ 2019-02-19 03:41:30 ] ---------------------------------------
+[ 2019-02-19 03:41:30 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:30 ] ---------------------------------------
+[ 2019-02-19 03:41:30 ] TEST 1
+[ 2019-02-19 03:41:30 ] URL = https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+[ 2019-02-19 03:41:30 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:30 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+[ 2019-02-19 03:41:30 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/ajax-googleapis-com/ajax/libs/jquery/1-11-0/jquery.min.js --> File Created !!!
+[ 2019-02-19 03:41:30 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:30 ] file url = https://www.dotrex.co/vertica/themes/vendor/bootstrap/js/bootstrap.min.js
+[ 2019-02-19 03:41:30 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/js/bootstrap.min.js
+[ 2019-02-19 03:41:30 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/bootstrap/js/bootstrap.min.js
+[ 2019-02-19 03:41:30 ] scrape_it = 1
+[ 2019-02-19 03:41:30 ] ---------------------------------------
+[ 2019-02-19 03:41:30 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:30 ] ---------------------------------------
+[ 2019-02-19 03:41:30 ] TEST 1
+[ 2019-02-19 03:41:30 ] URL = https://www.dotrex.co/vertica/themes/vendor/bootstrap/js/bootstrap.min.js
+[ 2019-02-19 03:41:30 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:30 ] useragent = Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-02-19 03:41:30 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/bootstrap/js/bootstrap.min.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/cdnjs-cloudflare-com/ajax/libs/jquery-easing/1-3/jquery.easing.min.js
+[ 2019-02-19 03:41:31 ] file url 1 = http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/cdnjs-cloudflare-com/ajax/libs/jquery-easing/1-3/jquery.easing.min.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = https://www.dotrex.co/vertica/themes/vendor/jquery.mousewheel.min.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.mousewheel.min.js
+[ 2019-02-19 03:41:31 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/jquery.mousewheel.min.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = https://www.dotrex.co/vertica/themes/vendor/jquery.mousewheel.min.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.mousewheel.min.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.min.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.nicescroll.min.js
+[ 2019-02-19 03:41:31 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.min.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.min.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.nicescroll.min.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.plus.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.nicescroll.plus.js
+[ 2019-02-19 03:41:31 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.plus.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = https://www.dotrex.co/vertica/themes/vendor/jquery.nicescroll.plus.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0 Iceweasel/14.0
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.nicescroll.plus.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = https://www.dotrex.co/vertica/themes/vendor/waypoints.min.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/waypoints.min.js
+[ 2019-02-19 03:41:31 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/waypoints.min.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = https://www.dotrex.co/vertica/themes/vendor/waypoints.min.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/waypoints.min.js --> File Created !!!
+[ 2019-02-19 03:41:31 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:31 ] file url = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.min.js
+[ 2019-02-19 03:41:31 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.min.js
+[ 2019-02-19 03:41:31 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.min.js
+[ 2019-02-19 03:41:31 ] scrape_it = 1
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:31 ] ---------------------------------------
+[ 2019-02-19 03:41:31 ] TEST 1
+[ 2019-02-19 03:41:31 ] URL = https://www.dotrex.co/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.min.js
+[ 2019-02-19 03:41:31 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:31 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; es-es) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:31 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/nivo-lightbox/nivo-lightbox.min.js --> File Created !!!
+[ 2019-02-19 03:41:32 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:32 ] file url = https://www.dotrex.co/vertica/themes/vendor/jquery.bxslider.min.js
+[ 2019-02-19 03:41:32 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.bxslider.min.js
+[ 2019-02-19 03:41:32 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/jquery.bxslider.min.js
+[ 2019-02-19 03:41:32 ] scrape_it = 1
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] TEST 1
+[ 2019-02-19 03:41:32 ] URL = https://www.dotrex.co/vertica/themes/vendor/jquery.bxslider.min.js
+[ 2019-02-19 03:41:32 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:32 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-02-19 03:41:32 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.bxslider.min.js --> File Created !!!
+[ 2019-02-19 03:41:32 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:32 ] file url = https://www.dotrex.co/vertica/themes/vendor/jquery.validate.min.js
+[ 2019-02-19 03:41:32 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.validate.min.js
+[ 2019-02-19 03:41:32 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/jquery.validate.min.js
+[ 2019-02-19 03:41:32 ] scrape_it = 1
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] TEST 1
+[ 2019-02-19 03:41:32 ] URL = https://www.dotrex.co/vertica/themes/vendor/jquery.validate.min.js
+[ 2019-02-19 03:41:32 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:32 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-02-19 03:41:32 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/jquery.validate.min.js --> File Created !!!
+[ 2019-02-19 03:41:32 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:32 ] file url = https://www.dotrex.co/vertica/themes/vendor/placeholders.jquery.min.js
+[ 2019-02-19 03:41:32 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/placeholders.jquery.min.js
+[ 2019-02-19 03:41:32 ] file url 1 = https://www.dotrex.co/vertica/themes/vendor/placeholders.jquery.min.js
+[ 2019-02-19 03:41:32 ] scrape_it = 1
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] TEST 1
+[ 2019-02-19 03:41:32 ] URL = https://www.dotrex.co/vertica/themes/vendor/placeholders.jquery.min.js
+[ 2019-02-19 03:41:32 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:32 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-02-19 03:41:32 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/vendor/placeholders.jquery.min.js --> File Created !!!
+[ 2019-02-19 03:41:32 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:32 ] file url = https://www.dotrex.co/vertica/themes/js/cross-browser.js
+[ 2019-02-19 03:41:32 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/js/cross-browser.js
+[ 2019-02-19 03:41:32 ] file url 1 = https://www.dotrex.co/vertica/themes/js/cross-browser.js
+[ 2019-02-19 03:41:32 ] scrape_it = 1
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] TEST 1
+[ 2019-02-19 03:41:32 ] URL = https://www.dotrex.co/vertica/themes/js/cross-browser.js
+[ 2019-02-19 03:41:32 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:32 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-02-19 03:41:32 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/js/cross-browser.js --> File Created !!!
+[ 2019-02-19 03:41:32 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:32 ] file url = https://www.dotrex.co/vertica/themes/js/main.js
+[ 2019-02-19 03:41:32 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/js/main.js
+[ 2019-02-19 03:41:32 ] file url 1 = https://www.dotrex.co/vertica/themes/js/main.js
+[ 2019-02-19 03:41:32 ] scrape_it = 1
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:32 ] ---------------------------------------
+[ 2019-02-19 03:41:32 ] TEST 1
+[ 2019-02-19 03:41:32 ] URL = https://www.dotrex.co/vertica/themes/js/main.js
+[ 2019-02-19 03:41:32 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:32 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
+[ 2019-02-19 03:41:32 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/js/main.js --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] /*******		End : Extract script files		**********/
+[ 2019-02-19 03:41:33 ] 
+[ 2019-02-19 03:41:33 ] 
+[ 2019-02-19 03:41:33 ] 
+[ 2019-02-19 03:41:33 ] /**************************************************************/
+[ 2019-02-19 03:41:33 ] /*******		Extract img files		**********/
+[ 2019-02-19 03:41:33 ] /**************************************************************/
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/avatar-James.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/avatar-James.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/avatar-James.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/avatar-James.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/avatar-James.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item1-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (X11; debian; Linux x86_64; rv:15.0) Gecko/20100101 Iceweasel/15.0
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item1-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item2-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item2-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item3-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item3-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item4-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item4-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item5-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item5-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item6-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item6-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item7-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item7-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item8-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-thumb.jpg
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:33 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130328 Firefox/21.0
+[ 2019-02-19 03:41:33 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item8-photo-thumb.jpg --> File Created !!!
+[ 2019-02-19 03:41:33 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:33 ] file url = https://www.dotrex.co/vertica/themes/favicon-vertica.ico
+[ 2019-02-19 03:41:33 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/favicon-vertica.ico
+[ 2019-02-19 03:41:33 ] file url 1 = https://www.dotrex.co/vertica/themes/favicon-vertica.ico
+[ 2019-02-19 03:41:33 ] scrape_it = 1
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:33 ] ---------------------------------------
+[ 2019-02-19 03:41:33 ] TEST 1
+[ 2019-02-19 03:41:33 ] URL = https://www.dotrex.co/vertica/themes/favicon-vertica.ico
+[ 2019-02-19 03:41:33 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:34 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:34 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/favicon-vertica.ico --> File Created !!!
+[ 2019-02-19 03:41:34 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:34 ] file url = https://www.dotrex.co/vertica/themes/apple-touch-icon-144.png
+[ 2019-02-19 03:41:34 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-144.png
+[ 2019-02-19 03:41:34 ] file url 1 = https://www.dotrex.co/vertica/themes/apple-touch-icon-144.png
+[ 2019-02-19 03:41:34 ] scrape_it = 1
+[ 2019-02-19 03:41:34 ] ---------------------------------------
+[ 2019-02-19 03:41:34 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:34 ] ---------------------------------------
+[ 2019-02-19 03:41:34 ] TEST 1
+[ 2019-02-19 03:41:34 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-144.png
+[ 2019-02-19 03:41:34 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:34 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; es-es) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:34 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-144.png --> File Created !!!
+[ 2019-02-19 03:41:34 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:34 ] file url = https://www.dotrex.co/vertica/themes/apple-touch-icon-114-precomposed.png
+[ 2019-02-19 03:41:34 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-114-precomposed.png
+[ 2019-02-19 03:41:34 ] file url 1 = https://www.dotrex.co/vertica/themes/apple-touch-icon-114-precomposed.png
+[ 2019-02-19 03:41:34 ] scrape_it = 1
+[ 2019-02-19 03:41:34 ] ---------------------------------------
+[ 2019-02-19 03:41:34 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:34 ] ---------------------------------------
+[ 2019-02-19 03:41:34 ] TEST 1
+[ 2019-02-19 03:41:34 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-114-precomposed.png
+[ 2019-02-19 03:41:34 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:34 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+[ 2019-02-19 03:41:34 ] Code = 404
+[ 2019-02-19 03:41:34 ] HTML found = Yes
+[ 2019-02-19 03:41:34 ]     No sleep!
+[ 2019-02-19 03:41:34 ] ----
+[ 2019-02-19 03:41:34 ] TEST 2
+[ 2019-02-19 03:41:34 ] URL = http://www.dotrex.co/vertica/themes/apple-touch-icon-114-precomposed.png  --> Switch protocol ( Try 'http' )
+[ 2019-02-19 03:41:34 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-19 03:41:35 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-02-19 03:41:35 ] Code = 404
+[ 2019-02-19 03:41:35 ] HTML found = Yes
+[ 2019-02-19 03:41:35 ]     No sleep!
+[ 2019-02-19 03:41:35 ] ----
+[ 2019-02-19 03:41:35 ] TEST 3
+[ 2019-02-19 03:41:35 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-114-precomposed.png
+[ 2019-02-19 03:41:35 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-19 03:41:35 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:22.0) Gecko/20130328 Firefox/22.0
+[ 2019-02-19 03:41:35 ] Code = 404
+[ 2019-02-19 03:41:35 ] HTML found = Yes
+[ 2019-02-19 03:41:35 ]     No sleep!
+[ 2019-02-19 03:41:35 ] ----
+[ 2019-02-19 03:41:35 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:35 ] file url = https://www.dotrex.co/vertica/themes/apple-touch-icon-72-precomposed.png
+[ 2019-02-19 03:41:35 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-72-precomposed.png
+[ 2019-02-19 03:41:35 ] file url 1 = https://www.dotrex.co/vertica/themes/apple-touch-icon-72-precomposed.png
+[ 2019-02-19 03:41:35 ] scrape_it = 1
+[ 2019-02-19 03:41:35 ] ---------------------------------------
+[ 2019-02-19 03:41:35 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:35 ] ---------------------------------------
+[ 2019-02-19 03:41:35 ] TEST 1
+[ 2019-02-19 03:41:35 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-72-precomposed.png
+[ 2019-02-19 03:41:35 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:36 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0
+[ 2019-02-19 03:41:36 ] Code = 404
+[ 2019-02-19 03:41:36 ] HTML found = Yes
+[ 2019-02-19 03:41:36 ]     No sleep!
+[ 2019-02-19 03:41:36 ] ----
+[ 2019-02-19 03:41:36 ] TEST 2
+[ 2019-02-19 03:41:36 ] URL = http://www.dotrex.co/vertica/themes/apple-touch-icon-72-precomposed.png  --> Switch protocol ( Try 'http' )
+[ 2019-02-19 03:41:36 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-19 03:41:37 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+[ 2019-02-19 03:41:37 ] Code = 404
+[ 2019-02-19 03:41:37 ] HTML found = Yes
+[ 2019-02-19 03:41:37 ]     No sleep!
+[ 2019-02-19 03:41:37 ] ----
+[ 2019-02-19 03:41:37 ] TEST 3
+[ 2019-02-19 03:41:37 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-72-precomposed.png
+[ 2019-02-19 03:41:37 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-19 03:41:37 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+[ 2019-02-19 03:41:37 ] Code = 404
+[ 2019-02-19 03:41:37 ] HTML found = Yes
+[ 2019-02-19 03:41:37 ]     No sleep!
+[ 2019-02-19 03:41:37 ] ----
+[ 2019-02-19 03:41:37 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:37 ] file url = https://www.dotrex.co/vertica/themes/apple-touch-icon-57.png
+[ 2019-02-19 03:41:37 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-57.png
+[ 2019-02-19 03:41:37 ] file url 1 = https://www.dotrex.co/vertica/themes/apple-touch-icon-57.png
+[ 2019-02-19 03:41:37 ] scrape_it = 1
+[ 2019-02-19 03:41:37 ] ---------------------------------------
+[ 2019-02-19 03:41:37 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:37 ] ---------------------------------------
+[ 2019-02-19 03:41:37 ] TEST 1
+[ 2019-02-19 03:41:37 ] URL = https://www.dotrex.co/vertica/themes/apple-touch-icon-57.png
+[ 2019-02-19 03:41:37 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:37 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130401 Firefox/
+[ 2019-02-19 03:41:37 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/apple-touch-icon-57.png --> File Created !!!
+[ 2019-02-19 03:41:37 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:37 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-zoom.jpg
+[ 2019-02-19 03:41:37 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item1-photo-zoom.jpg
+[ 2019-02-19 03:41:37 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-zoom.jpg
+[ 2019-02-19 03:41:37 ] scrape_it = 1
+[ 2019-02-19 03:41:37 ] ---------------------------------------
+[ 2019-02-19 03:41:37 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:37 ] ---------------------------------------
+[ 2019-02-19 03:41:37 ] TEST 1
+[ 2019-02-19 03:41:37 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item1-photo-zoom.jpg
+[ 2019-02-19 03:41:37 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0.1 Iceweasel/15.0.1
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item1-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item2-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item2-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item2-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item3-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item3-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; ko-kr) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item3-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item4-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item4-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item4-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item5-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item5-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item5-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item6-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item6-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item6-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item7-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item7-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item7-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] file url = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] local_file_full_path = files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item8-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] file url 1 = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] scrape_it = 1
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] get_curl_live() function : Start
+[ 2019-02-19 03:41:38 ] ---------------------------------------
+[ 2019-02-19 03:41:38 ] TEST 1
+[ 2019-02-19 03:41:38 ] URL = https://www.dotrex.co/vertica/themes/img/portfolio-item8-photo-zoom.jpg
+[ 2019-02-19 03:41:38 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-19 03:41:38 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+[ 2019-02-19 03:41:38 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/vertica/themes/img/portfolio-item8-photo-zoom.jpg --> File Created !!!
+[ 2019-02-19 03:41:38 ] -------------------------------------------------------------------------------------------
+[ 2019-02-19 03:41:38 ] /*******		End : Extract img files		**********/
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:38 ] /*******		Extract background_images files		**********/
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:38 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:38 ] /*******		Extract background_images_in_html files		**********/
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:38 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] 
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:38 ] /*******		Extract swf files		**********/
+[ 2019-02-19 03:41:38 ] /**************************************************************/
+[ 2019-02-19 03:41:39 ] /*******		End : Extract swf files		**********/
+[ 2019-02-19 03:41:39 ] 
+[ 2019-02-19 03:41:39 ] Removed external links total ( 0 / 0 )
+[ 2019-02-19 03:41:39 ] Partial Size : 5928
+[ 2019-02-19 03:41:39 ] size_limit_KO : 10000
+[ 2019-02-19 03:41:39 ] files/live/dotrex.co_gondijagapathi_gmail.com_7y5yr5nvi4i/index.html --> HTML File Created !!!
+[ 2019-02-19 03:41:39 ] ----------------------------------------------------------------------
+[ 2019-02-19 03:41:39 ] update  to_create_arr[0][is_done] = 1
+[ 2019-02-19 03:41:39 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-02-19 03:41:39 ] Final Size : 5932
