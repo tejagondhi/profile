@@ -1,69 +1,103 @@
-.head{
-background:#3c3f41;
-width:100%;
-height:25px;
-color:#babbbb;
-top: 50%;
+.head {
+    background: #3c3f41;
+    width: 100%;
+    height: 25px;
+    color: #babbbb;
+    top: 50%;
+}
+
+iframe {
+    background: #2b2b2b;
+    height: 93%;
+    margin-bottom: 25px;
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
 }
 
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:#3c3f41;
-  color: #babbbb;
-  text-align: left;
-  height: 25px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3c3f41;
+    color: #babbbb;
+    text-align: left;
+    height: 25px;
 }
 
 body {
-  font-family: Arial;
-  color: white;
+    font-family: poppins, Helvetica, sans-serif;
+    color: #babbbb;
 }
 
 .splitR {
-  height: 100%;
-  width: 80%;
-  position: fixed;
-  overflow-x: hidden;
-  padding-top: 20px;
-  margin-bottom: 25px;
+    height: 100%;
+    width: 80%;
+    position: fixed;
+    overflow-x: hidden;
+    margin-bottom: 25px;
 }
 
 .splitL {
-  height: 100%;
-  width: 20%;
-  position: fixed;
-  overflow-x: hidden;
-  padding-top: 20px;
-  margin-bottom: 25px;
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 20px;
 }
 
 .left {
-  left: 0;
-  background-color: #3c3f41;
+    left: 0;
+    background-color: #3c3f41;
 }
 
 .right {
-  right: 0;
-  background-color: #2b2b2b;
+    right: 0;
+    background-color: #2b2b2b;
 }
 
 .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 4%;
+    left: 40%;
 }
 
 .centered img {
-  width: 150px;
-  border-radius: 50%;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.column {
+    color: white;
+    padding: 1px;
+    flex-direction: column;
+}
+
+.profilePic {
+    border-radius: 50%;
 }
